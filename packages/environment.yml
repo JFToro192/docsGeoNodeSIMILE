@@ -102,8 +102,4 @@ dependencies:
   - yaml=0.2.5=h8ffe710_2
   - zeromq=4.3.4=h0e60522_1
   - zipp=3.8.1=pyhd8ed1ab_0
-  - pip:
-    - pydata-sphinx-theme==0.8.1
-    - sphinx==4.5.0
-    - sphinx-book-theme==0.3.3
 prefix: C:\Users\JFT\anaconda3\envs\envSphinx

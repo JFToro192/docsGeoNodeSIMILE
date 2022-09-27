@@ -17,11 +17,12 @@ jobs:
       - name: Python Setup
         uses: actions/setup-python@v2.2.1
         with:
-          python-version: 3.7
+          python-version: 3.9
       
       - name: Dependencies install
         run: |
           $CONDA/bin/conda env update --file ./packages/environment.yml --name envSphinx
+          python -m pip install sphinx-book-theme
 
       - name: Make Docs
         run: |
