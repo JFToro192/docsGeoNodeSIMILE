@@ -23,7 +23,7 @@ jobs:
         uses: conda-incubator/setup-miniconda@v2
         with:
           activate-environment: envSphinx
-          environment-file: package/environment.yml
+          environment-file: packages/environment.yml
           auto-activate-base: false
 
       - name: Install additional dependencies
