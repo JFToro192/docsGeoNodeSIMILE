@@ -31,6 +31,7 @@ release = 'MIT'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    "myst_parser"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -53,3 +54,28 @@ html_theme = 'sphinx_book_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# Update Left Menu Image
+html_logo = "_static/img/assev_simile.png"
+# Update Left Menu Title
+html_title = "SIMILE - Collaborative Data Sharing Platform"
+
+# Add link to GitHub Repo
+html_theme_options = {
+    "repository_url": "https://github.com/JFToro192/docsGeoNodeSIMILE",
+    "use_repository_button": True,
+    "home_page_in_toc": True
+}
+
+# Main Sidebar
+# html_sidebars = {
+#     "posts/*": ["posts.md"]
+# }
+
+# Secondary Sidebar
+# html_theme_options = {
+#     "toc_title": "{your-title}"
+# }
+
+# https://sphinx-book-theme.readthedocs.io/en/latest/customize/sidebar-secondary.html
+# https://myst-parser.readthedocs.io/en/latest/syntax/syntax.html
