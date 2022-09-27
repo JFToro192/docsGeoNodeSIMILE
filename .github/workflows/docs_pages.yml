@@ -12,17 +12,24 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v3
       
       - name: Python Setup
-        uses: actions/setup-python@v2.2.1
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.9
+          python-version: 3.10
       
-      - name: Dependencies install
+      - name: Environment Setup
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          activate-environment: envSphinx
+          environment-file: package/environment.yml
+          auto-activate-base: false
+
+      - name: Install additional dependencies
         run: |
-          $CONDA/bin/conda env update --file ./packages/environment.yml --name envSphinx
-          python -m pip install sphinx-book-theme
+          python -m pip install --upgrade pip
+          pip install -r ./packages/requirements.txt
 
       - name: Make Docs
         run: |
