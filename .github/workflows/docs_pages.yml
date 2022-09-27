@@ -1,0 +1,49 @@
+name: sphinx2ghpages_geonode_guide
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+
+  build_docs:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN}}
+
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v2.3.4
+        
+        - name: Python Setup
+          uses: actions/setupython@v2.2.1
+          with:
+            python-version: 3.7
+        
+        - name: Dependencies install
+          run: |
+            $CONDA/bin/conda env update --file ./packages/environment.yml --name envSphinx
+
+        - name: Make Docs
+          run: |
+            make -C docs clean
+            make -C docs html
+
+        - name: Create dist repo and commit
+          run: |
+            cd docs/build/html
+            git init
+            touch .nojekyll
+            git add -A
+            git config --local user.email "actions@github.com"
+            git config --local user.name "GitHub Action"
+            git commit -m "deploy"
+
+        - name: Push to gh-pages branch
+          uses: ad-m/github-push-action@v0.5.0
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: gh-pages
+            force: true
+            directory: ./docs/build/html
+          
