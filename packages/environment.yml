@@ -8,4 +8,4 @@ dependencies:
   - nbsphinx
   - recommonmark
   - sphinx-markdown-tables
-  - myst-parser
+  - myst-nb
