@@ -1,0 +1,6 @@
+.. _3.1:
+
+Layer's Styles
+==============
+
+Section devoted to the customisation of the styles provided to the WQP maps.

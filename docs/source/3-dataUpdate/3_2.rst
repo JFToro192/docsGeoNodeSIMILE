@@ -1,0 +1,6 @@
+.. _3.2:
+
+Layer's Metadata
+================
+
+Section devoted to the update of a layers metadata.

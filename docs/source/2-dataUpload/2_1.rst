@@ -1,0 +1,7 @@
+.. _2.1:
+
+WQP Maps Upload - Layers Page
+=============================
+
+Once the users have accessed with the proper credentials, and have been granted with the proper permissions, they will be allowed to proceed with the upload of the WQP maps.
+

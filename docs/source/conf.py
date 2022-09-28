@@ -63,12 +63,15 @@ html_title = "SIMILE - Collaborative Data Sharing Platform"
 html_theme_options = {
     "repository_url": "https://github.com/JFToro192/docsGeoNodeSIMILE",
     "use_repository_button": True,
-    "home_page_in_toc": True
+    "home_page_in_toc": True,
+    "show_toc_level": 3,
+    "extra_footer": True
 }
 
 # Main Sidebar
 # html_sidebars = {
-#     "posts/*": ["posts.md"]
+#     "**": ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
+#     'using/windows': ['windowssidebar.html', 'searchbox.html'],
 # }
 
 # Secondary Sidebar

@@ -1,0 +1,6 @@
+.. _3.3:
+
+Layer's Permissions
+===================
+
+Section devoted to the assign permissions for the actions a specific user can perform with the layers.

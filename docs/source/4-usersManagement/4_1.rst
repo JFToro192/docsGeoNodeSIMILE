@@ -1,0 +1,12 @@
+.. _4.1:
+
+Manage Users and Groups
+=======================
+
+This section aims at explaining the creation of users and groups of collaborators for the management of the data ingested into the platform.
+
+Add/Modify/Remove Users
+-----------------------
+
+Add/Modify/Remove Groups
+------------------------

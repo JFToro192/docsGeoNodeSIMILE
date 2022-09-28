@@ -1,0 +1,19 @@
+.. _1.1:
+
+.. toctree::
+    :caption: text:
+
+
+Platform Structure 
+==================
+
+Introduction to SIMILE's GeoNode
+--------------------------------
+
+
+Available Pages
+---------------
+
+Users Access
+------------
+
