@@ -4,3 +4,54 @@ Reference Material
 ==================
 
 List of publications for the project.
+
+.. Sample Admonitions
+.. ------------------
+.. .. topic:: my title goes here
+..    :class: myOwnStyle
+
+..    this is the admonition text
+
+.. .. danger::
+..     DANGER!!
+
+.. .. admonition:: my title goes here
+..    :class: myOwnStyle
+
+..    this is the admonition text
+
+.. .. attention::
+..     Attention
+
+.. .. caution::
+..     Caution
+
+.. .. error::
+..     Error
+
+.. .. hint::
+..     Hint
+
+.. .. important::
+..     Important
+
+.. .. note::
+..     Note
+
+.. .. seealso::
+..     See Also
+
+.. .. tip::
+..     Tip
+
+.. .. warning::
+..     Warning
+
+.. .. versionadded::
+..     Version Added
+
+.. .. versionchanged::
+..     Version Changed
+
+.. .. deprecated::
+..     Deprecated
