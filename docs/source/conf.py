@@ -64,8 +64,8 @@ html_theme_options = {
     "repository_url": "https://github.com/JFToro192/docsGeoNodeSIMILE",
     "use_repository_button": True,
     "home_page_in_toc": True,
-    "show_toc_level": 3,
-    "extra_footer": True
+    "show_toc_level": 3
+    # "extra_footer": True
 }
 
 # Main Sidebar
