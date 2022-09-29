@@ -5,3 +5,44 @@ WQP Maps Upload - Layers Page
 
 Once the users have accessed with the proper credentials, and have been granted with the proper permissions, they will be allowed to proceed with the upload of the WQP maps.
 
+.. figure:: /_static/img/1/1_2.png
+    :width: 100%
+    :alt: Layers upload
+
+    2.0. Layers upload
+
+.. figure:: /_static/img/2/2_1.png
+    :width: 100%
+    :alt: Explore for upload
+
+    2.1. Explore for upload
+
+.. figure:: /_static/img/2/2_2.png
+    :width: 100%
+    :alt: Select data for upload
+
+    2.2. Select data for upload
+
+.. figure:: /_static/img/2/2_3.png
+    :width: 100%
+    :alt: Execute the layer(s) upload
+
+    2.3. Execute the layer(s) upload
+
+.. figure:: /_static/img/2/2_4.png
+    :width: 100%
+    :alt: Check the layer upload status
+
+    2.4. Check the layer upload status
+
+.. figure:: /_static/img/2/2_5.png
+    :width: 100%
+    :alt: Complete upload of layer into map server and app database
+
+    2.5. Complete upload of layer into map server and app database
+
+.. figure:: /_static/img/2/2_6.png
+    :width: 100%
+    :alt: New layer added in layers page
+
+    2.6. New layer added in layers page
