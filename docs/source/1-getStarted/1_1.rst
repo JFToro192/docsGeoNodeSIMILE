@@ -10,10 +10,26 @@ Platform Structure
 Introduction to SIMILE's GeoNode
 --------------------------------
 
+.. figure:: /_static/img/1/1_1.png
+    :width: 100%
+    :alt: SIMILE GeoNode - Welcome Page
+
+    Figure 1.1 - `GeoNode SIMILE <https://www.geonode.eo.simile.polimi.it/>`_ - Welcome page
 
 Available Pages
 ---------------
 
+.. figure:: /_static/img/1/1_2.png
+    :width: 100%
+    :alt: SIMILE GeoNode - Welcome Page
+
+    Figure 1.2 - `Example Page <https://www.geonode.eo.simile.polimi.it/layers/?limit=5&offset=0>`_ - Layers
+
 Users Access
 ------------
 
+.. figure:: /_static/img/1/1_3.png
+    :width: 100%
+    :alt: SIMILE GeoNode - Welcome Page
+
+    Figure 1.3 - Users Credentials Input

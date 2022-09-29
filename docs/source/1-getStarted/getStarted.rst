@@ -1,9 +1,11 @@
 Getting Started
 ===============
 
+
+
 .. toctree::
     :maxdepth: 2
-    :caption: Getting Started:
+    :hidden:
 
     ./1_1
     
