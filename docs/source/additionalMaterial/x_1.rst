@@ -5,6 +5,20 @@ Reference Material
 
 List of publications for the project.
 
+.. seealso::
+
+    Scientific Publications for project SIMILE:
+
+    * `Bratic, G., Carrion, D., Cannata, M., Rogora, M., Strigaro, D. & Brovelli, M.A. (2022) Lake water quality monitoring tools. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B4-2022, 599–606, doi.org/10.5194/isprs-archives-XLIII-B4-2022-599-2022, 2022. <https://doi.org/10.5194/isprs-archives-XLIII-B4-2022-599-2022>`_
+    * `Biraghi, C. A., Lotfian, M., Carrion, D., and Brovelli, M. A. (2021). AI IN SUPPORT TO WATER QUALITY MONITORING. International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B4-2021, 167–174, doi.org/10.5194/isprs-archives-XLIII-B4-2021-167-2021. <https://doi.org/10.5194/agile-giss-3-71-2022>`_
+    * `Biraghi, C. A., Pessina, E., Carrion, D., and Brovelli, M. A. (2020). VGI Visualisation To Support Participatory Lake Monitoring: The Case Study Of SIMILE Project. International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B4-2020, 237–244. doi.org/10.5194/isprs-archives-XLIII-B4-2020-237-2020, 2020. <https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B4-2020/237/2020/>`_
+    * `Carrion, D.; Pessina, E.; Biraghi, C.A.; Bratic, G. (2020). Crowdsourcing Water Quality With the SIMILE App. International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B4-2020, 245–251. doi:10.5194/isprs-archives-XLIII-B4-2020-245-2020, 2020. <https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B4-2020/245/2020/>`_
+    * `Gerosa, C., Bresciani, M., Luciani, G., Biraghi, C. A., Carrion, D., Rogora, M., and Brovelli, M. A. (2021). ZONATION OF SUBALPINE LAKES BASED ON REMOTELY SENSED WATER QUALITY PARAMETERS, International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 551–558, doi.org/10.5194/isprs-archives-XLIII-B3-2021-551-2021. <https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2021/551/2021/isprs-archives-XLIII-B3-2021-551-2021.pdf>`_
+    * `Luciani, G., Bresciani, M., Biraghi, C. A., Ghirardi, N., Carrion, D., Rogora, M., & Brovelli, M. A. (2021). Satellite Monitoring system of Subalpine lakes with open source software: the case of SIMILE Project. Balt. J. Mod. Comput., 9(1). doi:10.22364/bjmc.2021.9.1.08 <https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/9_1_08_Luciani.pdf>`_
+    * `Toro Herrera, J. F., Carrion, D., and Brovelli, M. A. (2021). A COLLABORATIVE PLATFORM FOR WATER QUALITY MONITORING: SIMILE WEBGIS. International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B4-2021, 201–207, doi.org/10.5194/isprs-archives-XLIII-B4-2021-201-2021. <https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B4-2021/201/2021/isprs-archives-XLIII-B4-2021-201-2021.pdf>`_
+    * `Toro Herrera, J. F., Carrion, D., Bresciani, M., and Bratić, G.: SEMI-AUTOMATED PRODUCTION AND FILTERING OF SATELLITE DERIVED WATER QUALITY PARAMETERS, International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B3-2022, 1019–1026, doi.org/10.5194/isprs-archives-XLIII-B3-2022-1019-2022, 2022. <https://doi.org/10.5194/isprs-archives-XLIII-B3-2022-1019-2022>`_
+
+
 .. Sample Admonitions
 .. ------------------
 .. .. topic:: my title goes here
