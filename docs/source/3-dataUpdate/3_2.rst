@@ -4,3 +4,33 @@ Layer's Metadata
 ================
 
 Section devoted to the update of a layers metadata.
+
+.. figure:: /_static/img/3/3_2_1.png
+    :width: 100%
+    :alt: Layer Page
+
+    3.2.1. Layer page
+
+.. figure:: /_static/img/3/3_2_2.png
+    :width: 100%
+    :alt: Metadata guided editing
+
+    3.2.2. Guided metadata update
+
+.. figure:: /_static/img/3/3_2_3.png
+    :width: 100%
+    :alt: Metadata guided update panel
+
+    3.2.3. Metadata update panel
+
+.. figure:: /_static/img/3/3_2_4.png
+    :width: 100%
+    :alt: Metadata guided update panel
+
+    3.2.4. Metadata edit publication date
+
+.. figure:: /_static/img/3/3_2_5.png
+    :width: 100%
+    :alt: Updated layer metadata
+
+    3.2.5. Updated layer metadata

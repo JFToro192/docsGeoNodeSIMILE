@@ -4,3 +4,15 @@ Layer's Permissions
 ===================
 
 Section devoted to the assign permissions for the actions a specific user can perform with the layers.
+
+.. figure:: /_static/img/3/3_3_1.png
+    :width: 100%
+    :alt: Layer permission
+
+    3.3.1. Edit layer permissions
+
+.. figure:: /_static/img/3/3_3_2.png
+    :width: 100%
+    :alt: Layer permission
+
+    3.3.2. Edit layer permissions
