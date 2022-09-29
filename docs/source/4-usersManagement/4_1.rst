@@ -8,5 +8,65 @@ This section aims at explaining the creation of users and groups of collaborator
 Add/Modify/Remove Users
 -----------------------
 
+.. figure:: /_static/img/4/4_1.png
+    :width: 100%
+    :alt: Add user
+
+    4.1. Add new user
+
+.. figure:: /_static/img/4/4_2.png
+    :width: 100%
+    :alt: Create credentials for user
+
+    4.2. New user credentials
+
+.. figure:: /_static/img/4/4_3.png
+    :width: 100%
+    :alt: Edit user permisions and personal information
+
+    4.3. Edit user permisions and personal information
+
+.. figure:: /_static/img/4/4_4.png
+    :width: 100%
+    :alt: View list of users
+
+    4.4. List of available users in the platform
+
+.. figure:: /_static/img/4/4_5.png
+    :width: 100%
+    :alt: Access with the new user
+
+    4.5. Access the platform using the new user
+
 Add/Modify/Remove Groups
 ------------------------
+
+.. figure:: /_static/img/4/4_6.png
+    :width: 100%
+    :alt: Create a new group
+
+    4.6. Create a new group
+
+.. figure:: /_static/img/4/4_7.png
+    :width: 100%
+    :alt: New group created
+
+    4.7. New group created
+
+.. figure:: /_static/img/4/4_8.png
+    :width: 100%
+    :alt: Group's management
+
+    4.8. Group's management
+
+.. figure:: /_static/img/4/4_9.png
+    :width: 100%
+    :alt: Add new group members
+
+    4.9. Add new group members
+
+.. figure:: /_static/img/4/4_10.png
+    :width: 100%
+    :alt: Verification of new group member
+
+    4.10. Verification of new group member
