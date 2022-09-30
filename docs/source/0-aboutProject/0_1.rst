@@ -4,9 +4,9 @@ Water Quality Monitoring of the Insubric Lakes
 ==============================================
 
 
-Due to the increased demands on ecosystems, such as those caused by climate change or human activity, water availability and quality have been damaged (Foley et al., 2005). To achieve effective results, the water management regulations issue must be addressed at numerous levels by a variety of institutions, authorities, and communities (from policymaking to day-to-day citizen activities). To conserve water resources, communication, collaboration, and data exchange are essential.
+The increasing pressures on water availability and quality increased over the years due to demands on ecosystems, such as those caused by climate change or human activity. The water management regulations issue must be addressed at numerous levels by various institutions, authorities, and communities (from policymaking to day-to-day citizen activities). Communication, collaboration, and data exchange are essential to conserving water resources.
 
-The interactive presentation of water quality indicators and models through the internet has proven to be an excellent method for managing and monitoring water resources, involving the public and raising awareness (Arias et al., 2017; Brovelli et al, 2019a; Delipetrev et al., 2014; Kulawiak et al., 2010). In this work, we describe the design and implementation of a cooperative web platform for disseminating remote sensing-based maps (i.e., maps of water quality indicators) created for the SIMILE project ("Integrated monitoring system for knowledge, protection and valorisation of the subalpine lakes and their ecosystems"; Brovelli et al., 2019b).
+The interactive presentation of water quality indicators and models through the internet has proven to be an excellent method for managing and monitoring water resources, involving the public and raising awareness (:cite:p:`Arias:2017`). In this work, we describe the design and implementation of a cooperative web platform for disseminating remote sensing-based maps (i.e., maps of water quality indicators) created for the SIMILE project ("Integrated monitoring system for knowledge, protection and valorisation of the subalpine lakes and their ecosystems"; :cite:p:`Brovelli:2019`).
 
 SIMILE's GeoNode 
 ----------------
@@ -26,3 +26,8 @@ SIMILE's WebGIS
     :alt: SIMILE WebGIS - Welcome Page
 
     Figure 0.2 - `WebGIS SIMILE <https://www.webgis.eo.simile.polimi.it/>`_ - Welcome page
+
+.. seealso::
+    .. bibliography::
+
+        
