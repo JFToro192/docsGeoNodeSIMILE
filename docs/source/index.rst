@@ -11,6 +11,7 @@ Collaborative Data Sharing Platform Documentation for users. Built for the instr
 
 The project aims to improve the actual insubric lakes monitoring system and to create a shared policy for water management through an advanced informative system and citizen participation. The project is funded under the Interreg Italy-Switzerland Cooperation Program in order to develop strategies for the protection of lakes.
 
+
 .. image:: /_static/img/sentiero_viandante.png
   :width: 100%
   :alt: Sentiero del Viandante - Como Lake
