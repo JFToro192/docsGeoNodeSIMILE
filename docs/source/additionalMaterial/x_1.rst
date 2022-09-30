@@ -5,6 +5,8 @@ Reference Material
 
 List of publications for the project.
 
+.. rubric:: Further reading
+
 .. seealso::
 
     Scientific Publications for project SIMILE:
