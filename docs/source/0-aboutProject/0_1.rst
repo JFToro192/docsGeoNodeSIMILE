@@ -4,7 +4,7 @@ Water Quality Monitoring of the Insubric Lakes
 ==============================================
 
 
-The increasing pressures on water availability and quality increased over the years due to demands on ecosystems, such as those caused by climate change or human activity. The water management regulations issue must be addressed at numerous levels by various institutions, authorities, and communities (from policymaking to day-to-day citizen activities). Communication, collaboration, and data exchange are essential to conserving water resources.
+Pressures on water availability and quality increased over the years due to demands on ecosystems, such as those caused by climate change or human activity. The water management regulations issue must be addressed at numerous levels by various institutions, authorities, and communities (from policymaking to day-to-day citizen activities). Communication, collaboration, and data exchange are essential to conserving water resources.
 
 The interactive presentation of water quality indicators and models through the internet has proven to be an excellent method for managing and monitoring water resources, involving the public and raising awareness (:cite:p:`Arias:2017`). In this work, we describe the design and implementation of a cooperative web platform for disseminating remote sensing-based maps (i.e., maps of water quality indicators) created for the SIMILE project ("Integrated monitoring system for knowledge, protection and valorisation of the subalpine lakes and their ecosystems"; :cite:p:`Brovelli:2019`).
 
@@ -15,7 +15,7 @@ SIMILE's GeoNode
     :width: 100%
     :alt: SIMILE GeoNode - Welcome Page
 
-    Figure 0.1 - `GeoNode SIMILE <https://www.geonode.eo.simile.polimi.it/>`_ - Welcome page
+    `GeoNode SIMILE <https://www.geonode.eo.simile.polimi.it/>`_ - Welcome page
 
 
 SIMILE's WebGIS 
@@ -25,7 +25,7 @@ SIMILE's WebGIS
     :width: 100%
     :alt: SIMILE WebGIS - Welcome Page
 
-    Figure 0.2 - `WebGIS SIMILE <https://www.webgis.eo.simile.polimi.it/>`_ - Welcome page
+    `WebGIS SIMILE <https://www.webgis.eo.simile.polimi.it/>`_ - Welcome page
 
 .. seealso::
     .. bibliography::
