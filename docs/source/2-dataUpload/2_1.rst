@@ -53,6 +53,21 @@ When the user triggers the Select File button, a prompt of an explorer window wi
 .. note::
     It is possible to select multiple files for the upload if wanted. Hold the ctrl key while clicking on the different files to choose them.
 
+The sample files for working in this tutorial is 'S3A_CHL_IT_20190315T094218_L1'. 
+
+WQP maps follow a specific standard providing additional information about the product. In this example, it is possible to retrieve the subsequent metadata of the file:
+
+* S3A: "Sentinel-3A"
+* CHL: "Chlorophyll-a"
+* IT: "EPSG:32632"
+* 20190315T094218: "2019-03-15 09:42:18"
+* Derived from L1 product
+
+.. note::
+    Each WQPs maps are uploaded using a specific naming convention. The layers regarding the WQP maps account for the satellite used in the acquisition (L8: "Landsat 8", S3A: "Sentinel 3A" and S3B: "Sentinel 3B"), the typology of the map (CHL: "Chlorophyll-a", TSM: "Total Suspended Matter", LSWT: "Lake Surface Water Temperature"), the Coordinate Reference System (IT: "EPSG:32632", CH: "EPSG:2056), the time of acquisition of the image and the level of the image.
+
+Once the image is selected, the dataset's name will appear under the list of *Files to Upload* (presented along with the format of the file; see :numref:`2_3`). Then, you can proceed with the layer upload by clicking on **Upload File**.
+
 .. _2_3:
 .. figure:: /_static/img/2/2_3.png
     :width: 100%
@@ -60,12 +75,16 @@ When the user triggers the Select File button, a prompt of an explorer window wi
 
     Execute the layer(s) upload
 
+It is possible to control the upload status with the summary table prompted after starting the file upload (see :numref:`2_4`).
+
 .. _2_4:
 .. figure:: /_static/img/2/2_4.png
     :width: 100%
     :alt: Check the layer upload status
 
     Check the layer upload status
+
+When the upload into the platform storage is complete, the progress bar for the corresponding data will reach 100% (see :numref:`2_5`).
 
 .. _2_5:
 .. figure:: /_static/img/2/2_5.png
@@ -76,6 +95,8 @@ When the user triggers the Select File button, a prompt of an explorer window wi
 
 Verify data upload
 ------------------
+
+To verify the correct layer upload, visit the *Layers Page* and search for the uploaded dataset. By default, the Layer list the layers in the order of upload.
 
 .. _2_6:
 .. figure:: /_static/img/2/2_6.png
