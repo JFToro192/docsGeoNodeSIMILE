@@ -3,7 +3,10 @@
 Users management
 ================
 
-This section is devoted to the administrative users of the platform.
+This section details the possibility of adding, editing and removing users/groups.
+
+.. Attention::
+    The actions presented here are for users who have administrative permissions.
 
 .. toctree::
     :maxdepth: 2

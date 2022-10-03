@@ -3,7 +3,6 @@
 .. toctree::
     :caption: text:
 
-
 Platform Structure 
 ==================
 
@@ -14,6 +13,8 @@ The platform comprises multiple pages allowing the users to publish and manage t
     If the users want to become familiar with the site's different pages, they are more than welcome to explore the platform.
     
     For additional documentation of the different pages, the users are encouraged to visit  `GeoNode Users Guide <https://docs.geonode.org/en/master/usage/index.html>`_. 
+
+----------------
 
 Introduction to SIMILE's GeoNode
 --------------------------------
@@ -49,7 +50,7 @@ GeoNode's platform comprises multiple pages allowing it to publish and manage di
 Users Access
 ------------
 
-While users can access some of the resources, there are limits to what they can do inside the platform. Considering that you are an administrative user of the app, you can access its capabilities. For accessing the site using their credentials, it is sufficient to click on the top-right button `Access`, input the user credentials and click on acess.
+While users can access some of the resources, there are limits to what they can do inside the platform. Considering that you are an administrative user of the app, you can access its capabilities. For accessing the site using their credentials, it is sufficient to click on the top-right button ``Access``, input the user credentials and click on acess.
 
 The upcoming sections assume that you have the proper permissions for the upload and management of the data.
 

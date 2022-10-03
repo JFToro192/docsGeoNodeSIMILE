@@ -5,7 +5,9 @@ WQP Maps Upload - Layers Page
 
 Once the users have accessed with the proper credentials, and have been granted with the proper permissions, they will be allowed to proceed with the upload of the WQP maps. 
 
-The first step, is to reach the layers page (see :numref:`1_2_1`). To reach the *Layers Page*, the user must click on tab on the top of the window **Data** ￫ **Layers**.
+----------------
+
+The first step, is to reach the layers page (see :numref:`1_2_1`). To reach the *Layers Page*, the user must click on tab on the top of the window ``Data`` ￫ ``Layers``.
 
 Layers Page
 -----------
@@ -22,12 +24,12 @@ On the Layers page, a list of the available spatial datasets will be prompted. T
 .. note::
     Note: the visibility of the datasets may be controlled by the data provider. For more information on how to edit the permissions, the user can refer to section :ref:`4`.
 
-To proceed with the data upload, click on the **Layer Upload** button to go to the upload page (see :numref:`2_1`).
+To proceed with the data upload, click on the ``Layer Upload`` button to go to the upload page (see :numref:`2_1`).
 
 Upload page
 -----------
 
-To begin with, for the datasets upload, click on the **Select File**.
+To begin with, for the datasets upload, click on the ``Select File``.
 
 Here, there is an example of the data upload of a raster file. The dataset corresponds to a Water Quality Parameter (WQP) map.  
 
@@ -41,7 +43,7 @@ Here, there is an example of the data upload of a raster file. The dataset corre
 .. attention::
     GeoNode enables users the upload vector and raster data in their original projections. There is broad support for vector data formats (such as ESRI shapefiles, KML files, GeoJSON and others). Raster data, such as satellite images and other datasets, can be uploaded in GeoTIFF format.
 
-When the user triggers the Select File button, a prompt of an explorer window will appear. In this window, search for the file's location, select it and click **open**.
+When the user triggers the Select File button, a prompt of an explorer window will appear. In this window, search for the file's location, select it and click ``open``.
 
 .. _2_2:
 .. figure:: /_static/img/2/2_2.png
