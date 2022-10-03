@@ -3,46 +3,83 @@
 WQP Maps Upload - Layers Page
 =============================
 
-Once the users have accessed with the proper credentials, and have been granted with the proper permissions, they will be allowed to proceed with the upload of the WQP maps.
+Once the users have accessed with the proper credentials, and have been granted with the proper permissions, they will be allowed to proceed with the upload of the WQP maps. 
 
-.. figure:: /_static/img/1/1_2.png
+The first step, is to reach the layers page (see :numref:`1_2_1`). To reach the *Layers Page*, the user must click on tab on the top of the window **Data** ￫ **Layers**.
+
+Layers Page
+-----------
+
+On the Layers page, a list of the available spatial datasets will be prompted. The layers presented in the list can be explored, visualized and downloaded from the available datasets (if the data provider allows it to). 
+
+.. _1_2_1:
+.. figure:: /_static/img/2/1_2_1.png
     :width: 100%
     :alt: Layers upload
 
-    2.0. Layers upload
+    Layers Page
 
+.. note::
+    Note: the visibility of the datasets may be controlled by the data provider. For more information on how to edit the permissions, the user can refer to section :ref:`4`.
+
+To proceed with the data upload, click on the **Layer Upload** button to go to the upload page (see :numref:`2_1`).
+
+Upload page
+-----------
+
+To begin with, for the datasets upload, click on the **Select File**.
+
+Here, there is an example of the data upload of a raster file. The dataset corresponds to a Water Quality Parameter (WQP) map.  
+
+.. _2_1:
 .. figure:: /_static/img/2/2_1.png
     :width: 100%
-    :alt: Explore for upload
+    :alt: Upload page
 
-    2.1. Explore for upload
+    Upload page
 
+.. attention::
+    GeoNode enables users the upload vector and raster data in their original projections. There is broad support for vector data formats (such as ESRI shapefiles, KML files, GeoJSON and others). Raster data, such as satellite images and other datasets, can be uploaded in GeoTIFF format.
+
+When the user triggers the Select File button, a prompt of an explorer window will appear. In this window, search for the file's location, select it and click **open**.
+
+.. _2_2:
 .. figure:: /_static/img/2/2_2.png
     :width: 100%
     :alt: Select data for upload
 
-    2.2. Select data for upload
+    Select data for upload
 
+.. note::
+    It is possible to select multiple files for the upload if wanted. Hold the ctrl key while clicking on the different files to choose them.
+
+.. _2_3:
 .. figure:: /_static/img/2/2_3.png
     :width: 100%
     :alt: Execute the layer(s) upload
 
-    2.3. Execute the layer(s) upload
+    Execute the layer(s) upload
 
+.. _2_4:
 .. figure:: /_static/img/2/2_4.png
     :width: 100%
     :alt: Check the layer upload status
 
-    2.4. Check the layer upload status
+    Check the layer upload status
 
+.. _2_5:
 .. figure:: /_static/img/2/2_5.png
     :width: 100%
     :alt: Complete upload of layer into map server and app database
 
-    2.5. Complete upload of layer into map server and app database
+    Complete upload of layer into map server and app database
 
+Verify data upload
+------------------
+
+.. _2_6:
 .. figure:: /_static/img/2/2_6.png
     :width: 100%
     :alt: New layer added in layers page
 
-    2.6. New layer added in layers page
+    New layer added in layers page
