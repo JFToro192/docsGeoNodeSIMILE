@@ -9,52 +9,52 @@ Section devoted to the customisation of the styles provided to the WQP maps.
     :width: 100%
     :alt: Customise layer
 
-    3.1.1. Customise layer
+    Customise layer
 
 .. figure:: /_static/img/3/3_1_2.png
     :width: 100%
     :alt: Manage layer style
 
-    3.1.2. Manage layer style
+    Manage layer style
 
 .. figure:: /_static/img/3/3_1_3.png
     :width: 100%
     :alt: Select layer style
 
-    3.1.3. Select layer style
+    Select layer style
 
 .. figure:: /_static/img/3/3_1_4.png
     :width: 100%
     :alt: Pick layer style for the wqp map
 
-    3.1.4. Pick layer style for the wqp map
+    Pick layer style for the wqp map
 
 .. figure:: /_static/img/3/3_1_5.png
     :width: 100%
     :alt: Change the default style for the layer
 
-    3.1.5. Change the default style for the layer
+    Change the default style for the layer
 
 .. figure:: /_static/img/3/3_1_6.png
     :width: 100%
     :alt: Verify style changes have been applied
 
-    3.1.6. Verify style changes have been applied
+    Verify style changes have been applied
 
 .. figure:: /_static/img/3/3_1_7.png
     :width: 100%
     :alt: Add a new style
 
-    3.1.7. Add a new style
+    Add a new style
 
 .. figure:: /_static/img/3/3_1_8.png
     :width: 100%
     :alt: Create a new thumbnail for the map (visible in layers page)
 
-    3.1.8. Create a new thumbnail for the map (visible in layers page)
+    Create a new thumbnail for the map (visible in layers page)
 
 .. figure:: /_static/img/3/3_1_9.png
     :width: 100%
     :alt: Result of layer upload
 
-    3.1.9. Result of layer upload
+    Result of layer upload
