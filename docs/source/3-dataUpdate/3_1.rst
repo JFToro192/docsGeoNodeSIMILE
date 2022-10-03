@@ -5,6 +5,8 @@ Layer's Styles
 
 We focus on customising the WQP map view, information and management on this page. 
 
+----------------
+
 The first step is entering the layer page that will be edited, and you achieve this by clicking on the layer's name. :numref:`3_1_1` presents the view of the example layer page.
 
 .. _3_1_1:
@@ -14,7 +16,7 @@ The first step is entering the layer page that will be edited, and you achieve t
 
     Customise layer
 
-To start editing a layer, click on the **Editing Tools button** and select the Styles **Manage** option.  At this point, you can pick between the different styles available in the platform to apply to the layer.
+To start editing a layer, click on the ``Editing Tools button`` and select the Styles ``Manage`` option.  At this point, you can pick between the different styles available in the platform to apply to the layer.
 
 .. _3_1_2:
 .. figure:: /_static/img/3/3_1_2.png
@@ -23,7 +25,7 @@ To start editing a layer, click on the **Editing Tools button** and select the S
 
     Manage layer style
 
-:numref:`3_1_3` presents the default for the layer. However, to select a new layer style, you can open the dropdown menu to pick an alternative style. Then, click on **Update Styles** to add the updated styles to the layer.
+:numref:`3_1_3` presents the default for the layer. However, to select a new layer style, you can open the dropdown menu to pick an alternative style. Then, click on ``Update Styles`` to add the updated styles to the layer.
 
 .. _3_1_3:
 .. figure:: /_static/img/3/3_1_3.png
@@ -76,7 +78,7 @@ The layer's style will now match the one defined in the previous steps. Verify t
 
     Verify style changes have been applied
 
-Alternatively, you can upload a different style to apply to the layer by selecting the upload option in the **Upload** option in the Editing Instruments menu (see :numref:`3_1_2`).
+Alternatively, you can upload a different style to apply to the layer by selecting the upload option in the ``Upload`` option in the Editing Instruments menu (see :numref:`3_1_2`).
 
 .. _3_1_7:
 .. figure:: /_static/img/3/3_1_7.png
@@ -85,7 +87,7 @@ Alternatively, you can upload a different style to apply to the layer by selecti
 
     Add a new style
 
-An additional step for customising the view of a layer in the Layer is to edit the thumbnail accompanying the Layer in the list (e.g. setting an image or a zoomed view of the Layer). To edit the thumbnail, access the Layer Page and zoom in to the area of interest using the map view on the page. After doing so, select **Editing Tools** and click **Set**. Once the platform prompts the successful image change (see :numref:`3_1_8`), click OK and go back to the Layers Page to view the updated image (see :numref:`3_1_9`).
+An additional step for customising the view of a layer in the Layer is to edit the thumbnail accompanying the Layer in the list (e.g. setting an image or a zoomed view of the Layer). To edit the thumbnail, access the Layer Page and zoom in to the area of interest using the map view on the page. After doing so, select ``Editing Tools`` and click ``Set``. Once the platform prompts the successful image change (see :numref:`3_1_8`), click OK and go back to the Layers Page to view the updated image (see :numref:`3_1_9`).
 
 .. _3_1_8:
 .. figure:: /_static/img/3/3_1_8.png
