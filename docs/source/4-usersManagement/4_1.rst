@@ -108,7 +108,7 @@ For adding a new group member, it is sufficient to query them in the search bar,
 
     Add new group members
 
-Once the new user makes part of the group, the Group page will contain its information (see :num_ref:`4_10`).
+Once the new user makes part of the group, the Group page will contain its information (see :numref:`4_10`).
 
 .. _4_10:
 .. figure:: /_static/img/4/4_10.png
