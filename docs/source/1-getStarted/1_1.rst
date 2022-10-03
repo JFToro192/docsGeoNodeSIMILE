@@ -7,8 +7,20 @@
 Platform Structure 
 ==================
 
+The platform comprises multiple pages allowing the users to publish and manage the data. Here, particular attention is devoted to the data uploading and editing of the layers and creating users and groups. For this reason, the documentation will focus on the `Layers`, `Users` and `Groups` page.
+
+.. note::
+
+    If the users want to become familiar with the different pages of the site, they are more than welcome to explore the platform.
+    
+    For additional documentation of the different pages the users are ecourage to visit `GeoNode Users Guide <https://docs.geonode.org/en/master/usage/index.html>`_. 
+
 Introduction to SIMILE's GeoNode
 --------------------------------
+
+GeoNode Welcome Page present a summary of the different components reachable from the website, as well as the available contents inside the platform.
+
+On the top of the website, the users will find the 
 
 .. figure:: /_static/img/1/1_1.png
     :width: 100%
