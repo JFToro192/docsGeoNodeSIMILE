@@ -1,0 +1,62 @@
+.. _1.1:
+
+.. toctree::
+    :caption: text:
+
+Platform Structure 
+==================
+
+The platform comprises multiple pages allowing the users to publish and manage the data. Here, particular attention is devoted to the data uploading and editing of the layers and creating users and groups. For this reason, the documentation will focus on the `Layers`, `Users` and `Groups` page.
+
+.. note::
+
+    If the users want to become familiar with the site's different pages, they are more than welcome to explore the platform.
+    
+    For additional documentation of the different pages, the users are encouraged to visit  `GeoNode Users Guide <https://docs.geonode.org/en/master/usage/index.html>`_. 
+
+----------------
+
+Introduction to SIMILE's GeoNode
+--------------------------------
+
+On the main page (see fig. :numref:`1_1`), the users will find the description of project SIMILE and different links that lead them to additional resources on the website. When the user scrolls down on the page, it will present a summary of the data included in the platform, the number of users and the collaborators for the project.
+
+.. _1_1:
+.. figure:: /_static/img/1/1_1.png
+    :width: 70%
+    :alt: SIMILE GeoNode - Welcome Page
+
+    `GeoNode SIMILE <https://www.geonode.eo.simile.polimi.it/>`_ - Welcome page
+
+
+
+Available Pages
+---------------
+
+GeoNode's platform comprises multiple pages allowing it to publish and manage different data types. In addition, similar to social networks, it is possible to create users and groups to keep track of their contributions (also defining permissions to their actions over the resources). The available pages are: 
+
+* Data: Publication and management of data
+* Maps: Composition of maps using the available resources
+* Apps: "GeoStory" apps
+* About: Management of the platform contents. Creation of users and groups
+
+.. _1_2:
+.. figure:: /_static/img/1/1_2.png
+    :width: 70%
+    :alt: SIMILE GeoNode - Welcome Page
+
+    `Example Page <https://www.geonode.eo.simile.polimi.it/layers/?limit=5&offset=0>`_ - Layers
+
+Users Access
+------------
+
+While users can access some of the resources, there are limits to what they can do inside the platform. Considering that you are an administrative user of the app, you can access its capabilities. For accessing the site using their credentials, it is sufficient to click on the top-right button ``Access``, input the user credentials and click on acess.
+
+The upcoming sections assume that you have the proper permissions for the upload and management of the data.
+
+.. _1_3:
+.. figure:: /_static/img/1/1_3.png
+    :width: 70%
+    :alt: SIMILE GeoNode - Welcome Page
+
+    Users Credentials Input

@@ -1,0 +1,118 @@
+.. _4.1:
+
+Manage Users and Groups
+=======================
+
+On this page, you will find the steps to take advantage of the Django administrative dashboard to create new users on the platform and add them to new groups. Within this process, you will become familiar with creating new groups.
+
+.. note::
+
+    Remember to log in to the platform as an administrative user for the upcoming steps.
+
+-----------------------
+
+Add/Modify/Remove Users
+-----------------------
+
+On the top menu, open the ``About`` item and select the ``Add User`` option. The option will redirect you to GeoNode's administrative dashboard.  
+
+.. _4_1:
+.. figure:: /_static/img/4/4_1.png
+    :width: 100%
+    :alt: Add user
+
+    Add new user
+
+In the page presented in :numref:`4_2`, the user must input the credentials for the new user and then ``Save``.
+
+.. _4_2:
+.. figure:: /_static/img/4/4_2.png
+    :width: 100%
+    :alt: Create credentials for user
+
+    New user credentials
+
+With the new user's credentials defined, the next step involves assigning the corresponding user's contact information and permissions. After compiling the requested information, click on ``Save``.
+
+.. hint::
+    * Active: If the user is considered active in the platform (without the need to eliminate, if inactive)
+    * Staff privileges: If the user can access the administrative dashboard
+    * Superuser privileges: Assign all the rights for managing the dashboard
+
+.. _4_3:
+.. figure:: /_static/img/4/4_3.png
+    :width: 70%
+    :alt: Edit user permisions and personal information
+
+    Edit user permisions and personal information
+
+After storing the user, it will appear in the list of existing users on the platform. To head back to the main webpage, click ``View Site`` (at the top right of the screen).
+
+.. _4_4:
+.. figure:: /_static/img/4/4_4.png
+    :width: 100%
+    :alt: View list of users
+
+    List of available users in the platform
+
+Now, it is possible to test the new user by exiting the current session and logging in again with the credentials set for the new user.
+
+.. _4_5:
+.. figure:: /_static/img/4/4_5.png
+    :width: 100%
+    :alt: Access with the new user
+
+    Access the platform using the new user
+
+Add/Modify/Remove Groups
+------------------------
+
+Similarly, to the addition of a new user, enter the About menu and select Create Group (see :numref:`4_6`), which leads you to the Group Creation page. Complete the information about the group and select ``Create``.
+
+.. _4_6:
+.. figure:: /_static/img/4/4_6.png
+    :width: 100%
+    :alt: Create a new group
+
+    Create a new group
+
+Following the new group creation will prompt its page (see :numref:`4_7`). Notice that the group has an existing member (corresponding to the creator of the group).
+
+.. _4_7:
+.. figure:: /_static/img/4/4_7.png
+    :width: 100%
+    :alt: New group created
+
+    New group created
+
+From the group page, Figure 35, it is possible to manage the associated users. Select Manage group members to reach the page for managing the group members (:numref:`4_8`.
+
+.. _4_8:
+.. figure:: /_static/img/4/4_8.png
+    :width: 100%
+    :alt: Group's management
+
+    Group's management
+
+For adding a new group member, it is sufficient to query them in the search bar, select them and click on ``add member to the group``.
+
+
+.. note::
+
+    Please pay attention to the different actions available for managing each user; they can be defined as Manager, Removed or Demoted.
+
+.. _4_9:
+.. figure:: /_static/img/4/4_9.png
+    :width: 100%
+    :alt: Add new group members
+
+    Add new group members
+
+Once the new user makes part of the group, the Group page will contain its information (see :numref:`4_10`).
+
+.. _4_10:
+.. figure:: /_static/img/4/4_10.png
+    :width: 100%
+    :alt: Verification of new group member
+
+    Verification of new group member

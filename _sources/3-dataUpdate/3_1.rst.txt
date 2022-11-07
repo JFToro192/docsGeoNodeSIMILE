@@ -1,0 +1,104 @@
+.. _3.1:
+
+Layer's Styles
+==============
+
+We focus on customising the WQP map view, information and management on this page. 
+
+----------------
+
+The first step is entering the layer page that will be edited, and you achieve this by clicking on the layer's name. :numref:`3_1_1` presents the view of the example layer page.
+
+.. _3_1_1:
+.. figure:: /_static/img/3/3_1_1.png
+    :width: 70%
+    :alt: Customise layer
+
+    Customise layer
+
+To start editing a layer, click on the ``Editing Tools button`` and select the Styles ``Manage`` option.  At this point, you can pick between the different styles available in the platform to apply to the layer.
+
+.. _3_1_2:
+.. figure:: /_static/img/3/3_1_2.png
+    :width: 70%
+    :alt: Manage layer style
+
+    Manage layer style
+
+:numref:`3_1_3` presents the default for the layer. However, to select a new layer style, you can open the dropdown menu to pick an alternative style. Then, click on ``Update Styles`` to add the updated styles to the layer.
+
+.. _3_1_3:
+.. figure:: /_static/img/3/3_1_3.png
+    :width: 70%
+    :alt: Select layer style
+
+    Select layer style
+
+For the WQPs maps, a set of styles have been uploaded for their visualization.
+
+.. note::
+    
+    WQPs Styles:
+
+    .. list-table:: Water Quality Parameters Styles SIMILE
+        :widths:  50 25
+        :header-rows: 1
+
+        * - WQP
+          - Style Name
+        * - Lake Surface Water Temperature
+          - lswt
+        * - Chlorophyll-a
+          - chl
+        * - Total Suspended Matter
+          - tsm
+
+.. _3_1_4:
+.. figure:: /_static/img/3/3_1_4.png
+    :width: 70%
+    :alt: Pick layer style for the wqp map
+
+    Pick layer style for the wqp map
+
+Notice that the style hasn't been applied to the layer yet. Now, the user must predefine the default style for the layer. Go back to the Styles Page of the layer (see :numref:`3_1_3`) and set the one corresponding to the map as the default style.
+
+.. _3_1_5:
+.. figure:: /_static/img/3/3_1_5.png
+    :width: 70%
+    :alt: Change the default style for the layer
+
+    Change the default style for the layer
+
+The layer's style will now match the one defined in the previous steps. Verify that this is correct by reviewing the corresponding layer page.
+
+.. _3_1_6:
+.. figure:: /_static/img/3/3_1_6.png
+    :width: 70%
+    :alt: Verify style changes have been applied
+
+    Verify style changes have been applied
+
+Alternatively, you can upload a different style to apply to the layer by selecting the upload option in the ``Upload`` option in the Editing Instruments menu (see :numref:`3_1_2`).
+
+.. _3_1_7:
+.. figure:: /_static/img/3/3_1_7.png
+    :width: 70%
+    :alt: Add a new style
+
+    Add a new style
+
+An additional step for customising the view of a layer in the Layer is to edit the thumbnail accompanying the Layer in the list (e.g. setting an image or a zoomed view of the Layer). To edit the thumbnail, access the Layer Page and zoom in to the area of interest using the map view on the page. After doing so, select ``Editing Tools`` and click ``Set``. Once the platform prompts the successful image change (see :numref:`3_1_8`), click OK and go back to the Layers Page to view the updated image (see :numref:`3_1_9`).
+
+.. _3_1_8:
+.. figure:: /_static/img/3/3_1_8.png
+    :width: 70%
+    :alt: Create a new thumbnail for the map (visible in layers page)
+
+    Create a new thumbnail for the map (visible in layers page)
+
+.. _3_1_9:
+.. figure:: /_static/img/3/3_1_9.png
+    :width: 70%
+    :alt: Result of layer upload
+
+    Result of layer upload
