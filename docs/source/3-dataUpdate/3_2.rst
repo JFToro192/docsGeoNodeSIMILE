@@ -11,7 +11,7 @@ Go to the layer of interest page, and explore the ``Editing Tools`` option.
 
 .. _3_2_1:
 .. figure:: /_static/img/3/3_2_1.png
-    :width: 100%
+    :width: 70%
     :alt: Layer Page
 
     Layer page
@@ -20,7 +20,7 @@ We will employ the Guided Procedure to edit the layer's metadata here (see :numr
 
 .. _3_2_2:
 .. figure:: /_static/img/3/3_2_2.png
-    :width: 100%
+    :width: 60%
     :alt: Metadata guided editing
 
     Guided metadata update
@@ -32,14 +32,14 @@ Taking advantage of the convention mentioned earlier for the WQP map names, we w
 
 .. _3_2_3:
 .. figure:: /_static/img/3/3_2_3.png
-    :width: 100%
+    :width: 70%
     :alt: Metadata guided update panel
 
     Metadata update panel
 
 .. _3_2_4:
 .. figure:: /_static/img/3/3_2_4.png
-    :width: 100%
+    :width: 70%
     :alt: Metadata guided update panel
 
     Metadata edit publication date
@@ -48,7 +48,7 @@ Check that the date, and other metadata, are updated correctly on the Layer Page
 
 .. _3_2_5:
 .. figure:: /_static/img/3/3_2_5.png
-    :width: 100%
+    :width: 70%
     :alt: Updated layer metadata
 
     Updated layer metadata

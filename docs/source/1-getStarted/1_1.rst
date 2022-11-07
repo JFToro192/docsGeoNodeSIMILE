@@ -23,7 +23,7 @@ On the main page (see fig. :numref:`1_1`), the users will find the description o
 
 .. _1_1:
 .. figure:: /_static/img/1/1_1.png
-    :width: 100%
+    :width: 70%
     :alt: SIMILE GeoNode - Welcome Page
 
     `GeoNode SIMILE <https://www.geonode.eo.simile.polimi.it/>`_ - Welcome page
@@ -42,7 +42,7 @@ GeoNode's platform comprises multiple pages allowing it to publish and manage di
 
 .. _1_2:
 .. figure:: /_static/img/1/1_2.png
-    :width: 100%
+    :width: 70%
     :alt: SIMILE GeoNode - Welcome Page
 
     `Example Page <https://www.geonode.eo.simile.polimi.it/layers/?limit=5&offset=0>`_ - Layers
@@ -56,7 +56,7 @@ The upcoming sections assume that you have the proper permissions for the upload
 
 .. _1_3:
 .. figure:: /_static/img/1/1_3.png
-    :width: 100%
+    :width: 70%
     :alt: SIMILE GeoNode - Welcome Page
 
     Users Credentials Input

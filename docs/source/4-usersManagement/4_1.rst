@@ -41,7 +41,7 @@ With the new user's credentials defined, the next step involves assigning the co
 
 .. _4_3:
 .. figure:: /_static/img/4/4_3.png
-    :width: 100%
+    :width: 70%
     :alt: Edit user permisions and personal information
 
     Edit user permisions and personal information

@@ -11,7 +11,7 @@ The first step is entering the layer page that will be edited, and you achieve t
 
 .. _3_1_1:
 .. figure:: /_static/img/3/3_1_1.png
-    :width: 100%
+    :width: 70%
     :alt: Customise layer
 
     Customise layer
@@ -20,7 +20,7 @@ To start editing a layer, click on the ``Editing Tools button`` and select the S
 
 .. _3_1_2:
 .. figure:: /_static/img/3/3_1_2.png
-    :width: 100%
+    :width: 70%
     :alt: Manage layer style
 
     Manage layer style
@@ -29,7 +29,7 @@ To start editing a layer, click on the ``Editing Tools button`` and select the S
 
 .. _3_1_3:
 .. figure:: /_static/img/3/3_1_3.png
-    :width: 100%
+    :width: 70%
     :alt: Select layer style
 
     Select layer style
@@ -55,7 +55,7 @@ For the WQPs maps, a set of styles have been uploaded for their visualization.
 
 .. _3_1_4:
 .. figure:: /_static/img/3/3_1_4.png
-    :width: 100%
+    :width: 70%
     :alt: Pick layer style for the wqp map
 
     Pick layer style for the wqp map
@@ -64,7 +64,7 @@ Notice that the style hasn't been applied to the layer yet. Now, the user must p
 
 .. _3_1_5:
 .. figure:: /_static/img/3/3_1_5.png
-    :width: 100%
+    :width: 70%
     :alt: Change the default style for the layer
 
     Change the default style for the layer
@@ -73,7 +73,7 @@ The layer's style will now match the one defined in the previous steps. Verify t
 
 .. _3_1_6:
 .. figure:: /_static/img/3/3_1_6.png
-    :width: 100%
+    :width: 70%
     :alt: Verify style changes have been applied
 
     Verify style changes have been applied
@@ -82,7 +82,7 @@ Alternatively, you can upload a different style to apply to the layer by selecti
 
 .. _3_1_7:
 .. figure:: /_static/img/3/3_1_7.png
-    :width: 100%
+    :width: 70%
     :alt: Add a new style
 
     Add a new style
@@ -91,14 +91,14 @@ An additional step for customising the view of a layer in the Layer is to edit t
 
 .. _3_1_8:
 .. figure:: /_static/img/3/3_1_8.png
-    :width: 100%
+    :width: 70%
     :alt: Create a new thumbnail for the map (visible in layers page)
 
     Create a new thumbnail for the map (visible in layers page)
 
 .. _3_1_9:
 .. figure:: /_static/img/3/3_1_9.png
-    :width: 100%
+    :width: 70%
     :alt: Result of layer upload
 
     Result of layer upload

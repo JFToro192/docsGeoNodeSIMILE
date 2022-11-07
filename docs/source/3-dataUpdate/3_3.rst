@@ -11,7 +11,7 @@ Access a layer page to manage the actions' permissions and scroll down to the bo
 
 .. _3_3_1:
 .. figure:: /_static/img/3/3_3_1.png
-    :width: 80%
+    :width: 60%
     :alt: Layer permission
 
     Edit layer permissions
@@ -29,7 +29,7 @@ For any of these questions, it is possible to identify the actions to be applied
 
 .. _3_3_2:
 .. figure:: /_static/img/3/3_3_2.png
-    :width: 100%
+    :width: 60%
     :alt: Layer permission
 
     Edit layer permissions

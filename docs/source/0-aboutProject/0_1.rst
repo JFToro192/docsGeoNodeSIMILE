@@ -13,7 +13,7 @@ SIMILE's GeoNode
 ----------------
 
 .. figure:: /_static/img/geonode_wp.png
-    :width: 100%
+    :width: 70%
     :alt: SIMILE GeoNode - Welcome Page
 
     `GeoNode SIMILE <https://www.geonode.eo.simile.polimi.it/>`_ - Welcome page
@@ -23,7 +23,7 @@ SIMILE's WebGIS
 ----------------
 
 .. figure:: /_static/img/webgis_wp.png
-    :width: 100%
+    :width: 70%
     :alt: SIMILE WebGIS - Welcome Page
 
     `WebGIS SIMILE <https://www.webgis.eo.simile.polimi.it/>`_ - Welcome page
