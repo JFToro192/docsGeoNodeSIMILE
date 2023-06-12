@@ -1,0 +1,54 @@
+.. _3.2:
+
+Layer's Metadata
+================
+
+While data on its own is helpful, it is essential to provide additional information about the layer. This part shows how it is possible to give more information to the layers hosted by the platform.
+
+----------------
+
+Go to the layer of interest page, and explore the ``Editing Tools`` option.
+
+.. _3_2_1:
+.. figure:: /_static/img/3/3_2_1.png
+    :width: 70%
+    :alt: Layer Page
+
+    Layer page
+
+We will employ the Guided Procedure to edit the layer's metadata here (see :numref:`3_2_2`).  
+
+.. _3_2_2:
+.. figure:: /_static/img/3/3_2_2.png
+    :width: 60%
+    :alt: Metadata guided editing
+
+    Guided metadata update
+
+Taking advantage of the convention mentioned earlier for the WQP map names, we will update the Date to match the corresponding timestamp for the image acquisition (see :numref:`3_2_4`). In the form, update all the fields considered pertinent for the description of the WQP map (e.g. abstract of the map, keywords: CHL, etc.). Having edited the fields, the user can proceed to save the changes by clicking on ``Update`` (see :numref:`3_2_3`).
+
+.. note::
+    Notice that the Layers have multiple fields aiding the explanation of the datasets (click on ``Next`` to review the additional text boxes, see :numref:`3_2_3`).
+
+.. _3_2_3:
+.. figure:: /_static/img/3/3_2_3.png
+    :width: 70%
+    :alt: Metadata guided update panel
+
+    Metadata update panel
+
+.. _3_2_4:
+.. figure:: /_static/img/3/3_2_4.png
+    :width: 70%
+    :alt: Metadata guided update panel
+
+    Metadata edit publication date
+
+Check that the date, and other metadata, are updated correctly on the Layer Page.
+
+.. _3_2_5:
+.. figure:: /_static/img/3/3_2_5.png
+    :width: 70%
+    :alt: Updated layer metadata
+
+    Updated layer metadata
