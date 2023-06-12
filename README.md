@@ -19,7 +19,7 @@ conda create -n envSphinx
 conda activate envSphinx
 
 # Install the necessary libraries
-conda update envSphinx --file .\packages\environment.yml   
+conda env update --file .\packages\environment.yml   
 
 # Install the additional libraries for the docs theme
 pip install -r .\packages\requirements.txt
